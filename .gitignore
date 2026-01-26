@@ -12,3 +12,6 @@ ENV/
 # Environment variables / secrets
 .env
 .env.*
+
+# folder for uploaded files
+data/

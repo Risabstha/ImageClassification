@@ -1,0 +1,29 @@
+[33mcommit a6b2e8db7fff4f94b224f86ce32f959c1e4012ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Risab Shrestha <risabshrestha50@gmail.com>
+Date:   Mon Jan 26 21:29:54 2026 +0545
+
+    optimized model with quantized model
+
+[33mcommit e65daba7439a92c4b44b008bce583e484de18c3c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Risab Shrestha <risabshrestha50@gmail.com>
+Date:   Sun Jan 25 13:31:33 2026 +0545
+
+    modified
+
+[33mcommit 19bc30573bbbdceb696ce83d775ff2947f6f6050[m
+Author: Risab Shrestha <risabshrestha50@gmail.com>
+Date:   Fri Jan 23 09:54:54 2026 +0545
+
+    image classification using tf
+
+[33mcommit e8adc796509e9e7b2232d3e36cd874f42aabb09b[m
+Author: Risab Shrestha <risabshrestha50@gmail.com>
+Date:   Thu Jan 8 21:31:52 2026 +0545
+
+    adding
+
+[33mcommit 418db1dd947f3a05aeb26fe0aa6201c99fd78bfb[m
+Author: Risab Shrestha <risabshrestha50@gmail.com>
+Date:   Sun Jan 4 18:06:48 2026 +0545
+
+    visualization

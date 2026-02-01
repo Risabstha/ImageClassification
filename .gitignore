@@ -15,3 +15,6 @@ ENV/
 
 # folder for uploaded files
 data/
+1.original_image/
+20k_dat/
+Quantized_Model/
